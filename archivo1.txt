@@ -1,1 +1,2 @@
 archivo de ejemplo para clase de git
+Esta linea es para la segunda versión
