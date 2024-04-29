@@ -1,2 +1,3 @@
 archivo 2 para ejemplo de clase en git
 Cambio en archivo para versión 2
+Modificación para subirlo a GitHub
